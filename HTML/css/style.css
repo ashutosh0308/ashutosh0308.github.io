@@ -1,0 +1,31 @@
+.a{
+    height:40px;
+    
+
+}
+.b{
+
+height:40px;
+
+}
+.c{
+    height: 40px;
+    background-color:green;
+}
+
+@media(max-width:500px)
+{
+    .a{
+        background-color:orange;
+    }
+    .b{
+        background-color:violet;
+    }
+    .c{
+        background-color: red;
+
+    }
+}
+.nav-logo{
+    margin-right: 30px;
+}
